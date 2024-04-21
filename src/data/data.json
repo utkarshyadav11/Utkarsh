@@ -1,0 +1,55 @@
+[
+  {
+    "project_name": "Royale Touche",
+    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/handymate.png",
+    "description": "A Full-Stack web application, where users can reserve home services like Electrician, Plumber, Gardening etc. User can also delete the reservation. The Admin can add new services and delete existing services.",
+    "source_link": "https://plywood.royaletouche.com/",
+    "tech_stack": [
+      "Next js",
+      "Gsap",
+      "Framer Motion",
+      "Nodemailer",
+      "Json",
+      "CSS"
+    ]
+  },
+  {
+    "project_name": "InteriorMaata",
+    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/for.png",
+    "description": "Food-On-Rails is a website for managing food inventory and creating/publishing recipes. Ideal for food enthusiasts seeking organization and recipe inspiration. It has a user authentication system with special privileges.",
+    "source_link": "https://humbee-developers.github.io/InteriorMaata-/",
+    "tech_stack": [
+      "Next js",
+      "Gsap",
+      "Wordpress",
+      "Framer Motion",
+      "CSS"
+    ]
+  },
+  {
+    "project_name": "Pvot",
+    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/space-tourism.jpeg",
+    "description": "A website with 4 pages to explore the space. The UI of the website is taken from a Figma file provided by Frontend Mentor.",
+    "source_link": "https://github.com/PrantoshB/Space-Tourism",
+    "tech_stack": [
+      "Vite + React",
+      "CSS",
+      "R3F",
+      "Gsap",
+      "Framer Motion"
+    ]
+  },
+  {
+    "project_name": "Hedda",
+    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/rsm.jpeg",
+    "description": "A web application for RSM Mathematics Exhibition 2022 that allow users to get information about the program.",
+    "source_link": "https://github.com/PrantoshB/RSM-Mathematics-Exhibition-2022",
+    "tech_stack": [
+      "Tailwind",
+      "CSS",
+      "Framer Motion",
+      "JavaScript"
+    ]
+  }
+
+]
