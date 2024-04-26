@@ -17,8 +17,7 @@ const Projects = () => {
     <div className="projects" id="projects">
       <h1 className="title projects-title">featuRed pRojecTs</h1>
       <p className="projects-para">
-        Deployed 50+ scalable websites and cross-platform mobile applications.
-        Collaborated in 100+ projects with 30+ clients all around the world. Looking for next project/role.
+      Buckle up and explore a showcase of my dynamic projects, fueled by 2 years of experience and crafted with React, Next.js, and GSAP. Get ready to be wowed!"
       </p>
       <div className="projects-container">
         {
@@ -35,6 +34,10 @@ const Projects = () => {
           ))
         }
       </div>
+      <p className="projects-para">
+  For more adrenaline-fueled creations, check out my other projects on GitHub <a className='hover' href="https://github.com/utkarshyadav11" target="_blank">here</a>.
+</p>
+
     </div>
   );
 };

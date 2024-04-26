@@ -15,6 +15,10 @@
   text-align: right;
 }
 
+.hover:hover{
+  color:red;
+}
+
 .projects-para {
   font-size: 1.5rem;
   color: white;
