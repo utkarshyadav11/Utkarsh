@@ -1,7 +1,7 @@
 import React from 'react';
 import './Hero.css';
 import { Link } from 'react-scroll';
-import Imu from '../assets/imu.png';
+
 
 const Hero = () => (
   <div className="hero" id="home">
@@ -21,7 +21,9 @@ const Hero = () => (
           </a>
         </div>
       </div>
-      <img src={Imu} alt="Utkarsh" className="hero-image" />
+      {/* <div className="hero-image" >
+      <Scene />
+      </div> */}
     </div>
     <div className="social-icons">
         <a href="https://github.com/utkarshyadav11" target="_blank" rel="noreferrer">
