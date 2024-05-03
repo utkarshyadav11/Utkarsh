@@ -22,6 +22,7 @@
     "project_name": "InteriorMaata",
     "image_url": "https://i.ibb.co/RQfrbDM/interiormaata.png",
     "description": "Interiormaata is a distinguished interior designer known for her minimalist and aesthetic style. This website beautifully displays her work through interactive 3D elements and modern design techniques, offering a visually stunning exploration of her unique approach.",
+    "source_link": "https://humbee-developers.github.io/InteriorMaata-/",
     "tech_stack": [
       "Next js",
       "Gsap",
