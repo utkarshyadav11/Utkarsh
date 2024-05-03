@@ -5,7 +5,7 @@
   [
   {
     "project_name": "Royale Touche",
-    "image_url": "https://i.ibb.co/Rjq4pZH/royale-Tuche.png",
+    "image_url": "https://i.ibb.co/mNmtQ1G/ss.png",
     "description": "Royale Touche is a renowned plywood manufacturer, and this website serves as its online marketplace, offering sales and distribution across India. The site features multiple 3D elements that vividly showcase the factory, providing visitors with a  3d virtual tour of Royale Touche's operations. Enjoy highly interactive and engaging experiences as you explore our products and facilities.",
     "source_link": "https://plywood.royaletouche.com/",
     "tech_stack": [
@@ -17,6 +17,7 @@
       "CSS"
     ]
   },
+
   {
     "project_name": "InteriorMaata",
     "image_url": "https://i.ibb.co/RQfrbDM/interiormaata.png",
@@ -32,7 +33,7 @@
   },
   {
     "project_name": "Pvot",
-    "image_url": "https://i.ibb.co/mCxPRvy/pvot.png",
+    "image_url": "https://i.ibb.co/FW4QQsy/ss1.png",
     "description": "Pvot is a dynamic marketing agency based in Ahmedabad. I designed this website with a modern and advanced aesthetic, incorporating numerous interactive features and captivating animations. ",
     "source_link": "https://humbee-developers.github.io/PVOT/",
     "tech_stack": [
@@ -43,39 +44,12 @@
       "Framer Motion"
     ]
   },
-  {
-    "project_name": "Raaj Solar",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/rsm.jpeg",
-    "description": "A web application for RSM Mathematics Exhibition 2022 that allow users to get information about the program.",
-    "source_link": "https://github.com/PrantoshB/RSM-Mathematics-Exhibition-2022",
-    "tech_stack": [
-      "Vite + React",
-      "SCSS",
-      "Framer Motion",
-      "JavaScript",
-      "Gsap"
-    ]
-  },
-
-  {
-    "project_name": "Siddhguru",
-    "image_url": "https://prantoshb.github.io/Portfolio-Backend/assets/rsm.jpeg",
-    "description": "A web application for RSM Mathematics Exhibition 2022 that allow users to get information about the program.",
-    "source_link": "https://github.com/PrantoshB/RSM-Mathematics-Exhibition-2022",
-    "tech_stack": [
-      "Vite + React",
-      "SCSS",
-      "Framer Motion",
-      "JavaScript",
-      "Gsap"
-    ]
-  },
-
+  
   {
     "project_name": "Hedda",
     "image_url": "https://i.ibb.co/xJK2pLc/Screenshot-2024-04-26-125155.png",
     "description": "I created a responsive theme using Tailwind CSS, featuring interactive elements and a well-crafted design. This theme is optimized for various devices and screen sizes, ensuring a seamless user experience. With its modern aesthetics and functional layout, it enhances both usability and visual appeal.",
-    "source_link": "https://github.com/PrantoshB/RSM-Mathematics-Exhibition-2022",
+    "source_link": "",
     "tech_stack": [
       "Tailwind",
       "CSS",
